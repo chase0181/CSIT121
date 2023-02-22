@@ -1,0 +1,27 @@
+body {
+    background-color:#003366;
+    background-image: url("images/kid.jpg");
+}
+
+img {
+    box-shadow: 15px 15px;
+    border-radius: 30px;
+}
+
+p {
+    color: blueviolet;
+}
+
+h1{
+    color: red;
+    text-transform: capitalize;
+}
+
+h2{
+    color: red;
+    margin:10px 10px 10px 10px; 
+}
+
+ul{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
